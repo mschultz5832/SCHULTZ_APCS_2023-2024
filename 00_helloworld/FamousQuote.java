@@ -6,4 +6,3 @@ public class FamousQuote {
         System.out.println("\" - Mckenna Schultz \"");
     }
 }
-
