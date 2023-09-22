@@ -1,7 +1,7 @@
 public class TemperatureFlux {
 
     public static void main(String[ ] args){
-        int highestTemperatureOfTheDay = 79; 
+        int highestTemperatureOfTheDay = 76; 
         int lowestTemperatureOfTheDay= 64; 
         int differenceInTemperature = highestTemperatureOfTheDay - lowestTemperatureOfTheDay; 
 
