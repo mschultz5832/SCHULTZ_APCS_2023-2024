@@ -17,3 +17,17 @@ public class MediaStats
 
 
 
+
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+-Watch out for all the extra lines at the end, such as 17-20.
+I know it's being nitpicky, but I am trying to enforce proper
+coding standards and extra spacing is frowned upon in the real world.
+No points off this round of grading, but I will next time.
+1/1 - Comments
+
+*/

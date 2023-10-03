@@ -15,3 +15,13 @@ public class SummationOfASeries {
  System.out.println( numberOne  + " + " + numberTwo + " + " + numberThree +  " + " + numberfour + " + " + numberFIve +  " + " + numberSix + " + " + numberSeven + " + " + numberEight + " + " + numberNine + " = " + addittiveOfAllTheNumber);
 }
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+-Adjust your formatting on lines 15-17 to be consistent.
+1/1 - Comments
+
+*/
