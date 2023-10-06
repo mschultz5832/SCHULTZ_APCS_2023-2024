@@ -9,8 +9,9 @@ public class ComputeAnExpression {
     double fourthNumber = 3;
     double fifthNumber = 45.5;
     double sixthNumber = 3.5;
+    double finalNumber = (firtsNumber * secondNumber - thirdNumber * fourthNumber)/( fifthNumber - sixthNumber);
 
-    System.out.println( (firtsNumber * secondNumber - thirdNumber * fourthNumber)/( fifthNumber - sixthNumber));
+    System.out.println( finalNumber);
 
     }  
     
