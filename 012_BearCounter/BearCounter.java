@@ -20,3 +20,12 @@ public class bearCounter {
     System.out.println( "all th bears have left there are now " + numberOfBears + " in the clearing ");
     } 
 }
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
