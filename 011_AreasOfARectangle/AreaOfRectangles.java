@@ -1,11 +1,21 @@
-package 011_AreasOfARectangle;
 
 public class AreaOfRectangles {
     
-}
-AreasOfRectangles.java	"Write a program that calculates and prints the area of the following rectangles.
+    public static void main (String [] args){
+        int areaOfRectangle1 = 5.5 * 7.8;
+        int areaOfRectangle2 = 99.4 * 500.352;
+        int areaOfRectangle3 = 75 * 2.54(800);
 
-// Rec1AreaInInches:
+
+
+
+
+    }
+}
+
+
+
+Rec1AreaInInches:
 // -Width: 5.5 inches
 // -Height 7.8 inches
 // Rec2AreaInCentimeters:

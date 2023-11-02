@@ -2,7 +2,6 @@ public class ATableOfVariables {
     
   public static void main( String[ ] args){
     int rowOneColumnTwo = 1;
-    int rowOneColumnThree= 1;
     int rowTwoColumnTwo = 4;
     int rowTwoColumnThree= 8;
     int rowThreeColumnTwo= 9; 
@@ -16,7 +15,6 @@ System.out.println(  " 1 "  +    rowOneColumnTwo    + " "   + rowOneColumnTwo  )
 System.out.println(  " 2 "   +   rowTwoColumnTwo   +  " " + rowTwoColumnThree ); 
 System.out.println(  " 3 "   +   rowThreeColumnTwo  + " " + rowThreeColumThree  ) ;
 System.out.println(  " 4 "    +  rowFourColumntwo  + " " +   rowFourColumnThree  ); 
-
   }
 }
 
