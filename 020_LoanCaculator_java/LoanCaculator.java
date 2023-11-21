@@ -22,6 +22,9 @@ public static void main(String[] args) {
       double total = = ((amount/months) + interest);
 
       System.out.println("your interst is " + monthlyPayment + " and your total is " + total);
+
+
+
       
 }
 }
