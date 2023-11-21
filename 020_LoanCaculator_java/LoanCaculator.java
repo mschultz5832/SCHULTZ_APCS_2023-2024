@@ -10,18 +10,24 @@ public static void main(String[] args) {
       Double remainingMonthsOnLoan = 0.0; 
 
       System.out.println("please provide your principal balance");
-     
       principalBalance= scan.nextDouble(); 
 
       System.out.println( "annual interest rate" );
+      annualInterestRate== scan.nextDouble(); 
 
-      System.out.println ( annualInterestRate);
+      System.out.println (annualInterestRate);
+      remainingMonthsOnLoan = scan.nextDouble(); 
 
-      System.out.println("remaining months on your loan");
+      double monthlyPayment = principalBalance/remainingMonths + monthlyInterest
+      double total = = ((amount/months) + interest);
+
+      System.out.println("your interst is " + monthlyPayment + " and your total is " + total);
 
 
 
-
+      
+}
+}
 
       //monthlyPayment = principalBalance/remainingMonths + monthlyInterest
         
