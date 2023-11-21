@@ -1,5 +1,6 @@
+import java.util.Scanner;
 
-public class LoanCaculator.Scanner {
+public class LoanCaculator {
 
 public static void main(String[] args) {
 		
@@ -13,20 +14,17 @@ public static void main(String[] args) {
       principalBalance= scan.nextDouble(); 
 
       System.out.println( "annual interest rate" );
-      annualInterestRate== scan.nextDouble(); 
+      annualInterestRate= scan.nextDouble(); 
 
       System.out.println (annualInterestRate);
       remainingMonthsOnLoan = scan.nextDouble(); 
 
-      double monthlyPayment = principalBalance/remainingMonths + monthlyInterest
-      double total = = ((amount/months) + interest);
+      double monthlyPayment = principalBalance/remainingMonths + monthlyInterest;
+      double total = ((amount/months) + interest);
 
       System.out.println("your interst is " + monthlyPayment + " and your total is " + total);
-
-
-
       
-}
+      }
 }
 
       //monthlyPayment = principalBalance/remainingMonths + monthlyInterest
