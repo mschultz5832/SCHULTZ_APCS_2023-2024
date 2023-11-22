@@ -15,3 +15,6 @@ System.out.println("Perimeter of the Hexagon = "+perimeter);
 
   }
 }
+
+
+// using scanner where user put in lenghts and it muliplies with number of sides being six to figure out perimeter.

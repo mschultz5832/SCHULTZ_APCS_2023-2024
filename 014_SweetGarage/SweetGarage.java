@@ -17,3 +17,5 @@ public class SweetGarage {
     coolCar.revEngine();
    }
 }
+
+// learned using methods seperatly and going with the variables like certain car being or not being able to rev or having turbo

@@ -15,3 +15,5 @@ public static void main(String[] args) {
     } 
 } 
 
+// more about scanner and istead of printing name, the put in ther own name in 
+
