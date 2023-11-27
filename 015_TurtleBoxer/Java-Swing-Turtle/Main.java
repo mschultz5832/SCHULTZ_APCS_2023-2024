@@ -24,5 +24,14 @@ public class Main {
     //Finally, set the world to be visible with a boolean. Ex: worldName.setVisible(the proper boolean);
   }
 }
+<<<<<<< HEAD
 // this is saved on my computer at school. 
 
+=======
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8

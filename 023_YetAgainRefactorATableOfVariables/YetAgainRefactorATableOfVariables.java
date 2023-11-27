@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class YetAgainRefactorAnotherTable{
 
 public static void main(String [] args);{
@@ -25,4 +26,14 @@ public static void main(String [] args);{
 
     }
 
+
+    
+
 }
+=======
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
