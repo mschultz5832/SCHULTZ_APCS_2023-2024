@@ -9,7 +9,9 @@ public class PerimeterAreaOfAHexagonCaculator {
 <<<<<<< HEAD
 System.out.Println( "put in the length for the hexagon");
 
+Scanner scan = new Scanner(System.in);
 int a=scan.nextInt();
+
 int perimeter =(6 * a);
 
 System.out.println("Perimeter of the Hexagon = "+perimeter);
