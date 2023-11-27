@@ -1,20 +1,11 @@
 public class PerimeterAreaOfAHexagonCaculator {
-    
-<<<<<<< HEAD
-}
-s
-=======
-
-
-/*
-
-0/4 - incomplete
-
-<<<<<<< HEAD
-System.out.Println( "put in the length for the hexagon");
+public static void main(String[] args);{
 
 Scanner scan = new Scanner(System.in);
-int a=scan.nextInt();
+
+int a = 0.0;
+
+System.out.Println( "put in the length for the hexagon" + a);
 
 int perimeter =(6 * a);
 
@@ -22,10 +13,3 @@ System.out.println("Perimeter of the Hexagon = "+perimeter);
 
   }
 }
-
-
-// using scanner where user put in lenghts and it muliplies with number of sides being six to figure out perimeter.
-=======
-*/
->>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
->>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c
