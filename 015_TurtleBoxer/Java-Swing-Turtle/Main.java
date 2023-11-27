@@ -42,6 +42,10 @@ public class Main {
 
   }
 }
+<<<<<<< HEAD
+// this is saved on my computer at school. 
+
+=======
 
 //prgramming in to  another  site, to control turtle 
 
@@ -51,3 +55,8 @@ public class Main {
 
 
 
+<<<<<<< HEAD
+=======
+*/
+>>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
+>>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c

@@ -11,7 +11,8 @@ public static void main(String[] args) {
     System.out.println( firtsName.nameFirstLetter);
     System.out.println( firtsName.nameLastLetter);
 
-    }
+
+    } 
 
 }
 // learned name transmogrofier, using string methods more
