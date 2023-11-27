@@ -1,9 +1,7 @@
-public class ReturningCalculator
-{
+public class ReturningCalculator{
+public static void main(String[] args){
 
-    public static void main(String[] args){
-
- double ninePointFive = 9.5;
+double ninePointFive = 9.5;
 double fourPointFive = 4.5;
 double twoPointFive = 2.5;
 double three = 3;
@@ -53,7 +51,17 @@ double firtsEquationMinussecondEquationDividedBythirdEquation = calc.divider(fir
     {
         return x/y;
     }
+<<<<<<< HEAD
   }
 }
 
 // adding on from compute expression 1, but using returning cacualtor and multiplier in java for euqation. 
+=======
+
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
