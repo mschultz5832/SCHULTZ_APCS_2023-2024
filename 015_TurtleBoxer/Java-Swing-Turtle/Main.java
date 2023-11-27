@@ -42,10 +42,6 @@ public class Main {
 
   }
 }
-<<<<<<< HEAD
-// this is saved on my computer at school. 
-
-=======
 
 //prgramming in to  another  site, to control turtle 
 
