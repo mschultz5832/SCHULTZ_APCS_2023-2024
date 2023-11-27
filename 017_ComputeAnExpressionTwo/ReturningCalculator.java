@@ -6,7 +6,7 @@ double fourPointFive = 4.5;
 double twoPointFive = 2.5;
 double three = 3;
 double threePointFive = 3.5;
-double fortyFivePointFive = 45.5
+double fortyFivePointFive = 45.5;
 
 returningCaculator calc = new ReturningCalculator();
 
@@ -51,17 +51,12 @@ double firtsEquationMinussecondEquationDividedBythirdEquation = calc.divider(fir
     {
         return x/y;
     }
-<<<<<<< HEAD
-  }
 }
-
-// adding on from compute expression 1, but using returning cacualtor and multiplier in java for euqation. 
-=======
-
-
 /*
 
-0/4 - incomplete
+0/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
 
 */
->>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
