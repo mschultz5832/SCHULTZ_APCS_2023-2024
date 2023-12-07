@@ -13,6 +13,6 @@ public static void main(String[] args) {
 }
 }
 
-// using subsrting to prit out certain words in stence counting from beginnning satrting at 0 
+// using subsrting to print out certain words in stence counting from beginnning satrting at 0 
 
 

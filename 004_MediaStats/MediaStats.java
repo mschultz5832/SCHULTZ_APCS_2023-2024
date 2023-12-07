@@ -4,7 +4,7 @@ public class MediaStats
     int hungerGamesReleaseYear = 2008;
     int hungerGamesPageNumber = 374;
     int onePieceaReleaseDate = 1999;
-    int onePieceRunTime = 24_051;
+    int onePieceRunTime = 24051;
     int theWalkingDeadReleaseDate = 2010;
     int theWalkingDeadrunTime = 252;
 

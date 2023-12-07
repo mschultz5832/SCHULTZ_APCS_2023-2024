@@ -21,3 +21,5 @@ public static void main(String[] args){
     
     }
 }
+
+// figured out strings name with figturing out length, aswell as replacing letters in a print. string methods

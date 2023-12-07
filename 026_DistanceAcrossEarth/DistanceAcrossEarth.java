@@ -9,7 +9,7 @@ int longitude = "";
 
 Scanner scan = new Scanner(System.in);
 
-System.out.println("enter cordinattes for longtitude and latitude" + "" + "");
+System.out.println("enter cordinates for longtitude and latitude" + "" + "");
 
 
 
