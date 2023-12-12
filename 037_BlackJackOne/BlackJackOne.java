@@ -3,18 +3,20 @@ import java.util.Scanner;
  public class BlackJackOne {
 
 
-public static void main(String[] args)
-{
+public static void main(String[] args) {
+
+
     Scanner scanner = new Scanner(System.in);
     Random card = new Random();
 
     int dealerValue = (int)(Math.random());
 
-    System.out.print("your card is ");
-    int randomValue = input.nextInt();
+    System.out.print("your firts card is " + dealerValue ) ;
+    System.out.println( "your second card value is " + dealerValue );
 
-
-    if (Math.random = 1)
+    int totalValue = 
+    
+ if (Math.random = 1)
     {
         System.out.println("your card is ace and the value is 1 ");
     }
@@ -52,22 +54,16 @@ public static void main(String[] args)
     }
     else if( Math.random = 10 )
     {
-        System.out.println(  " your card value is 10" );
+        System.out.println(  "your card value is 10" );
+     }
+
+     String hit = "";
+     String stay = "";
+
+     System.out.println( " do you wanna hit or stay") ;
+
+
+     if ()
+
     }
-
-
-    }
- }
-
-    
-    
-    
-    
-    
-    
-    
-    // each card value is = t0 nuber 
-
-   // joker queen king = 10 
-
-       // aces = 1 
+}
