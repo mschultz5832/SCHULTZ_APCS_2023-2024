@@ -8,12 +8,9 @@ public class CommonDigit {
         //WrapperClass objectName = WrapperClass.valueOf(value);
             int numberOne = 0;
             int numberTwo = 0;
-
-
-
-            
-           // String one = Interger.toString(numberOne);
-          //  String two = Interger.toString(numberTwo);
+      
+         // String one = Interger.toString(numberOne);
+        //  String two = Interger.toString(numberTwo);
            
             
         System.out.println("insert a value between 25 and 75" + numberOne);
@@ -28,11 +25,9 @@ public class CommonDigit {
 
             String numberOneString = numberOneObject.toString();
             String numberTwoString = numberTwoObject.toString();
+        
                         
-            
-
-            
-             if (numberOneString.substring(2).equals(numberTwoString.substring(2)))
+            if (numberOneString.substring(2).equals(numberTwoString.substring(2)))
             {
             System.out.println( "they have the same second digit and it is " + numberTwoString.substring(2));
             }
@@ -46,7 +41,6 @@ public class CommonDigit {
 }
             
 
-    
 
 
 

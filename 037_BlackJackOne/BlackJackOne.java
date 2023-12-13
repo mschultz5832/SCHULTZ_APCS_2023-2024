@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
- public class BlackJackOne {
-
+public class BlackJackOne {
 
 public static void main(String[] args) {
 
@@ -9,12 +8,36 @@ public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     Random card = new Random();
 
-    int dealerValue = (int)(Math.random());
+    int cardValue = (int)(Math.Random( 52));
+    int cardValueTwo = (int)(Math.Random (52));
+    int cardValueThree = (int)(Math.Random(52));
+    //dealing plyer cards 
 
-    System.out.print("your firts card is " + dealerValue ) ;
-    System.out.println( "your second card value is " + dealerValue );
+    System.out.print("your firts card is " + cardValue ) ;
+    System.out.println( "your second card value is " + cardValueTwo );
 
-    int totalValue = 
+     int cardTotal = cardValue + cardValueTwo ; 
+     int cardtotalTwo = cardValue + cardValueTwo + cardValueThree ; 
+        
+    // players two cards with card total
+
+
+       System.out.println("First Cards: " + cardValue + ", " + cardValueTwo);
+       System.out.println("Total: "+ cardTotal);
+
+       System.out.println("would you like to hit or stay ");
+
+       int hit = cardValueThree;
+
+       if ()
+{
+    System.out.print( cardtotalTwo);
+}
+else 
+{
+    System.out.print( cardTotal);
+}
+
     
  if (Math.random = 1)
     {
@@ -57,13 +80,7 @@ public static void main(String[] args) {
         System.out.println(  "your card value is 10" );
      }
 
-     String hit = "";
-     String stay = "";
 
-     System.out.println( " do you wanna hit or stay") ;
-
-
-     if ()
-
+ 
     }
 }
