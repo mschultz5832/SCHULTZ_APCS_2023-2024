@@ -8,9 +8,10 @@ public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     Random card = new Random();
 
-    int cardValue = (int)(Math.Random( 52));
-    int cardValueTwo = (int)(Math.Random (52));
-    int cardValueThree = (int)(Math.Random(52));
+    int cardValue = (int)(Math.Random() * 10) +1;
+    int cardValueTwo = (int)(Math.Random () * 10) + 1;
+    int cardValueThree = (int)(Math.Random() *10) +1;
+   
     //dealing plyer cards 
 
     System.out.print("your firts card is " + cardValue ) ;
@@ -19,7 +20,7 @@ public static void main(String[] args) {
      int cardTotal = cardValue + cardValueTwo ; 
      int cardtotalTwo = cardValue + cardValueTwo + cardValueThree ; 
         
-    // players two cards with card total
+    // players two cards with card totat
 
 
        System.out.println("First Cards: " + cardValue + ", " + cardValueTwo);
@@ -29,55 +30,52 @@ public static void main(String[] args) {
 
        int hit = cardValueThree;
 
-       if ()
+
+if ( hit);
 {
     System.out.print( cardtotalTwo);
-}
-else 
-{
-    System.out.print( cardTotal);
-}
+} 
 
     
- if (Math.random = 1)
+ if (Math.Random = 1)
     {
         System.out.println("your card is ace and the value is 1 ");
     }
-    else if(Math.random = 2)
+    else if(Math.Random = 2)
     {
         System.out.println("your card value is two  ");
     }
-    else if (Math.random = 3)
+    else if (Math.Random = 3)
     {
         System.out.println("your card value is three ");
     }
-    else if (Math.random = 4)
+    else if (Math.Random = 4)
     {
      System.out.println("your card value is four ");
     }
-    else if ( Math.random = 5 )
+    else if (Math.Random = 5 )
     {
         System.out.println( " your card value is five  ");
     }
-    else if(Math.random = 6)
+    else if(Math.Random = 6)
     {
-        System.out.println("your card value is six  ");
+        System.out.println("your card value is six ");
     }
-    else if (Math.random = 7)
+    else if (Math.Random = 7)
     {
         System.out.println("ypur card value is seven ");
     }
-    else if (Math.random = 8)
+    else if(Math.Random = 8)
     {
      System.out.println("your card value is eight ");
     }
-    else if ( Math.random = 9)
+    else if( Math.Random = 9)
     {
-        System.out.println( " your card value is nine  ");
+        System.out.println( " your card value is nine ");
     }
-    else if( Math.random = 10 )
+    else if( Math.Random = 10 )
     {
-        System.out.println(  "your card value is 10" );
+        System.out.println( "your card value is 10" );
      }
 
 
