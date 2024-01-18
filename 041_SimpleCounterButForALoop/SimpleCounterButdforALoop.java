@@ -31,3 +31,14 @@ public class SimpleCounterButdforALoop {
 
     //
     
+/*
+
+0/1 - Compiles
+-This is really close to correct, but all those additional ; at the end of the
+for loops are making it so it can't compile. Do you check your programs when you finish
+writing them?
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

@@ -30,3 +30,16 @@ if numberOne
 }
     
 }
+
+/*
+
+0/1 - Compiles
+-Doesn't compile
+0/1 - Content
+-Isn't complete
+0/1 - Formatting
+-Formatting is way off.
+0/1 - Comments
+-No comments.
+
+*/

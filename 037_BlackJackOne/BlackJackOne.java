@@ -82,3 +82,16 @@ if ( hit);
  
     }
 }
+
+/*
+
+0/1 - Compiles
+-Doesn't compile
+0/1 - Content
+-Isn't complete
+0/1 - Formatting
+-Formatting is way off.
+1/1 - Comments
+-One comment that's filled with spelling errors? I guess I'll take it?
+
+*/

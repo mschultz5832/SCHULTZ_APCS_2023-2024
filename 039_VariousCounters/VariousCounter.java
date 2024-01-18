@@ -24,3 +24,9 @@ public class VariousCounter {
 // --+7, -3, +11, -2.
 // --(E.X. 1000, 1007, 1004, 1015, 1013, 1020...)
 // --Make sure to print out each number through different loop iterations. In other words, have logic control which action it takes during each loop.
+
+/*
+
+0/4 incomplete
+
+*/
