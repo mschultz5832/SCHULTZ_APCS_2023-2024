@@ -1,4 +1,4 @@
-public class hand {
+public class hand {  
 
 public static void main (String[] args){
 

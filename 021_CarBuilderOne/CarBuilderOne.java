@@ -19,6 +19,7 @@ Car carBuilder = new Car ( carMake + carModel + yearOfCar + mileageOfCar );
 System.out.println( "we have found you a car!" );
 
 }
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 }
@@ -45,3 +46,11 @@ System.out.println( "we have found you a car!" );
 
 */
 >>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c
+=======
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> Stashed changes

@@ -51,6 +51,7 @@ double firtsEquationMinussecondEquationDividedBythirdEquation = calc.divider(fir
     {
         return x/y;
     }
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 }
 =======
@@ -64,3 +65,12 @@ double firtsEquationMinussecondEquationDividedBythirdEquation = calc.divider(fir
 
 */
 >>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c
+=======
+}
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> Stashed changes

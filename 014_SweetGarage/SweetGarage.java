@@ -16,6 +16,7 @@ public class SweetGarage {
     coolCar3.engageTurbo();
     coolCar.revEngine();
    }
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 }
 =======
@@ -24,6 +25,10 @@ public class SweetGarage {
 <<<<<<< HEAD
 // learned using methods seperatly and going with the variables like certain car being or not being able to rev or having turbo
 =======
+=======
+}
+
+>>>>>>> Stashed changes
 /*
 
 1/1 - Compiles
@@ -31,6 +36,10 @@ public class SweetGarage {
 1/1 - Formatting
 1/1 - Comments
 
+<<<<<<< Updated upstream
 */
 >>>>>>> d1a9d5c6aa5ca3699338660748fb4b4d70367db8
 >>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c
+=======
+*/
+>>>>>>> Stashed changes

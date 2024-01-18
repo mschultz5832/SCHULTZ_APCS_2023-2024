@@ -13,7 +13,17 @@ System.out.println("Perimeter of the Hexagon = "+perimeter);
 
   }
 }
+<<<<<<< Updated upstream
 
 
 
 //using scanner tohave user eneter lenht and it muliplies with 6 sides, to get perimeter
+=======
+s
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> Stashed changes

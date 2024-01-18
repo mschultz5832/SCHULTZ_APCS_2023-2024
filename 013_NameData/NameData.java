@@ -16,3 +16,12 @@ public static void main(String[] args) {
 
 }
 // learned name transmogrofier, using string methods more
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/

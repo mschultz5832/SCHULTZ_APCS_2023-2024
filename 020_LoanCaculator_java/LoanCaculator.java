@@ -35,3 +35,13 @@ System.out.println("your interest is " + monthlyInterest + " and your total is "
 		
     
 
+/*
+
+0/1 - Compiles
+0/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+These are looking pretty rough...
+
+*/

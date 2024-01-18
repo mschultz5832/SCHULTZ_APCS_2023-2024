@@ -2,6 +2,7 @@ public class MaximumIntegers {
 <<<<<<< HEAD
     
 }
+<<<<<<< Updated upstream
 =======
 
 public static void main(String[] args){
@@ -15,3 +16,11 @@ public static void main(String[] args){
 
 
 >>>>>>> 3bd773af1e2bc23670b684f0010410d2c9606e9c
+=======
+
+/*
+
+0/4 - incomplete
+
+*/
+>>>>>>> Stashed changes
