@@ -1,36 +1,36 @@
-public class Pen {
+public class pen {
    
     static String colorOfInk = "pink";
     static String colorOfPen = "black";
-    static String capOrClickey = "Clickey";
-    static intmL inkRemaining = 1;
-
+    static boolean caporclickey = true;
+    static int inkRemaining = 1;
+  
     public static void main(String[] args) {}
 
+    public static void colorOfInk(){
+        System.out.println( "the color of thus pen ink is " + colorOfInk);
+    }
+
+    public static void colorOfPen (){
+        System.out.println( "the pens color is" + colorOfPen);
+    }
     public static void inkRemaining (){
-        System.out.println( "there is one mL of ink remaining");
+        System.out.println( "there is " + inkRemaining + "mL of ink remaining");
     }
 
-    public static void capOff() {
-        System.out.println(" this pen doesnt have a cap " );
-    
+    public static void caporclickey() {
+        if (caporclickey = true){
+
+            System.out.println(" you can write with your pen because the cap is off");
+        }
+        else if (caporclickey = false ){
+            System.out.println( " this is a cap pen");
+        }
+
+        }
+
+
+    public static void wordsToWrite(){
+        System.out.println ( "wazzuppp");
     }
-
-    public static void clickedOut(){
-        Sysrem.out.println ( "you can write with this pen because it is clicked out");
-    }
-
-    public static void wordsToWrite();{
-        System.out.println ( )
-    }
-    
-
-
 }
-
-
-
-
-
-
-
