@@ -1,9 +1,15 @@
 public class Closet {
+    public static void main(String[] args) {
+      
+    shirt carharttShirt = new shirt();
 
-    shirt CarharttShirt = new shirt();
-
-    CarharttShirt.describeShirt();
-    
+    carharttShirt.describeShirt();
+    carharttShirt.fold ();
+    carharttShirt.isClean();
+   
+       
     }
-    
+
 }
+    
+

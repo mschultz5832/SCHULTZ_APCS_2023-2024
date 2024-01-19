@@ -1,10 +1,8 @@
+public class Shirt {
 
-
-public class FindAShirtUno {
-
-   static string color = pink();
-   static string brand = carhartt();
-   static string type = tshirt();
+   static string color = "pink";
+   static string brand = "carhartt";
+   static string type = "shirt";
    static boolean isClean = true;
     
    public static void main(String[] args) {}
