@@ -18,5 +18,13 @@ public class NameGreeting {
         }
     }
 }
-    
+
+/*
+
+1/3 - Compile/Content
+-Doesn't run.
+1/1 - Formatting
+1/1 - Comments
+
+*/
 

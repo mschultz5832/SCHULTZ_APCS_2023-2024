@@ -22,3 +22,12 @@ public class SpellingBeeSimulator {
 }
 
     
+/*
+
+1/1 - Compiles
+1/1 - Content
+0/1 - Formatting
+-The way this is printing out is not how it was requested.
+0/1 - Comments
+
+*/
