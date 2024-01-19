@@ -8,11 +8,11 @@ public class pen {
     public static void main(String[] args) {}
 
     public static void colorOfInk(){
-        System.out.println( "the color of thus pen ink is " + colorOfInk);
+        System.out.println( "the color of this pens ink is " + colorOfInk);
     }
 
     public static void colorOfPen (){
-        System.out.println( "the pens color is" + colorOfPen);
+        System.out.println( "the pen's color is" + colorOfPen);
     }
     public static void inkRemaining (){
         System.out.println( "there is " + inkRemaining + "mL of ink remaining");
@@ -28,8 +28,6 @@ public class pen {
         }
 
         }
-
-
     public static void wordsToWrite(){
         System.out.println ( "wazzuppp");
     }
