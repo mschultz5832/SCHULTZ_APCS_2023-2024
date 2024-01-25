@@ -1,10 +1,10 @@
 public class Closet {
     public static void main(String[] args) {
       
-    shirt carharttShirt = new shirt();
+    Closet carharttShirt = new Closet();
 
     carharttShirt.describeShirt();
-    carharttShirt.fold ();
+    carharttShirt.fold();
     carharttShirt.isClean();
    
        
