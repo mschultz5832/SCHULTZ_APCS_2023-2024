@@ -20,9 +20,6 @@ public class SimpleCounter {
     }
 }
 
-
-
-
 /*
 
 0/4 incomplete

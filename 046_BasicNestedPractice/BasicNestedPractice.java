@@ -29,3 +29,12 @@ public class BasicNestedPractice {
 }
 
 // user inputs there characters, and it sues that withthe number of rows and colums they choose tomakeinto a table for them. 
+
+/*
+
+1/1 - Compiles
+1/1 - Content
+1/1 - Formatting
+1/1 - Comments
+
+*/
