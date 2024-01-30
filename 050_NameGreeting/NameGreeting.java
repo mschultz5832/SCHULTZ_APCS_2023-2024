@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class NameGreeting {
     public static void main(String[] args) {
+        
         Scanner scan = new Scanner(System.in);
         
        //user is enetring name 
