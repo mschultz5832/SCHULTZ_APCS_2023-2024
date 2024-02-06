@@ -1,7 +1,8 @@
 public class Closet {
+    
     public static void main(String[] args) {
       
-    Closet carharttShirt = new Closet();
+    Shirt carharttShirt = new Shirt();
 
     carharttShirt.describeShirt();
     carharttShirt.fold();

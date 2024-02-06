@@ -5,7 +5,7 @@ public class Shirt {
    static string type = "shirt";
    static boolean isClean = true;
     
-   public static void main(String[] args) {}
+   public static void main(String[] args){}
 
    public static void describeShirt(){
         System.out.println( " This is a " + color + ""  + brand + "" + type );

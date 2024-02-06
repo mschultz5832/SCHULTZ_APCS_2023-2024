@@ -10,7 +10,7 @@ public class NameGreeting {
         String name = scan.nextLine();
         
     // Custom method greeting by name
-    public static void personName(){
+    public static void personName() {
         System.out.println("Greetings" + name );
 
         personName(name);

@@ -1,4 +1,4 @@
-import.java.util.Scanner;
+import java.util.Scanner;
 
     public class DivisibleByRange {
 
@@ -29,8 +29,3 @@ import.java.util.Scanner;
         
 
 
-/*
-
-0/4 incomplete
-
-*/
