@@ -15,25 +15,22 @@ public class unethicalRPS {
        scan.close();
 
       //no matter what user inputs, computer always counter attacks with what beats their choice
-       if(userInput.equals(rock))
+       if(userInput.equalsIgnoreCase(rock))
        {
      System.out.print(" computer choose paper, you lost");
 
        }
-       if(userInput.equals(paper))
+       else if(userInput.equalsIgnoreCase(paper))
        {
         System.out.print(" computer choose scizzors, you lost");
        }
-       if(userInput.equals(scissors))
+       else if(userInput.equalsIgnoreCase(scissors))
        {
         System.out.println("computer choose rock, you loose");
 
        }
-
-    }
+  }  
 }
-    
-    
 
 /*
 
