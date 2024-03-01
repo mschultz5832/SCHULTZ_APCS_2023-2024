@@ -20,7 +20,6 @@ public class pen {
 
     public static void caporclickey() {
         if (caporclickey = true){
-
             System.out.println(" you can write with your pen because the cap is off");
         }
         else if (caporclickey = false ){
