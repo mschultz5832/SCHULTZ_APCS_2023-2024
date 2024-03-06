@@ -29,7 +29,6 @@ public class ShoeRack {
           
         shoe3.printShoe();
           
-          
-       }
+    }
     
 }

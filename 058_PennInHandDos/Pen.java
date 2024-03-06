@@ -13,7 +13,7 @@ public class Pen{
     // contructor with defualt pen
     public Pen(String inkColor, String penColor, int inkRemaining, Boolean capOrClickey){
         this.colorOfInk = colorOfInk; 
-         this.colorOfPen = colorOfPen;
+        this.colorOfPen = colorOfPen;
         this.inkRemaining = inkRemaining;
         this.capOrClickey = capOrClickey;
     

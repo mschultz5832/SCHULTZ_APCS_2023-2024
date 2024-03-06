@@ -14,7 +14,7 @@ public class NameGreeting {
         System.out.println("Hello" + name );
         personName(name);
     }
-    Scanner.close;
+    
     }
 }
 
