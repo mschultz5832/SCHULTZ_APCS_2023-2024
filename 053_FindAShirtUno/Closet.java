@@ -16,7 +16,7 @@ public class Closet {
 // this should work now 
 /*
 
-1/3 - Compile/Content
+3/3 - Compile/Content
 1/1 - Formatting
 1/1 - Comments
 
