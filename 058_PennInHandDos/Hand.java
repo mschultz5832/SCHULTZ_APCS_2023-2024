@@ -28,3 +28,9 @@ public class Hand {
 }
 // prints out from contructors order of color of ink, color of pen, ink remaining 
 //cap or clickey and then words to write. words to write arent in contructpr but is a method pulled?
+
+/*
+
+This still doesn't work.
+
+ */
