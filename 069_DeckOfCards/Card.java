@@ -2,26 +2,22 @@ public class Card{
 
 //values for cards and suites
 private String suits;
-private int values;
+private String value;
 //method for cards and suits
-public DeckOfCards(String suits, int values){
+public Card(String suits, String values){
 this.value = value; 
-this.name = name;
+this.suits = suits;
 }
 
 //getters and setters for cards and suits
 public String getSuits(){
-    return this.suits;
+    return suits;
 }
-public void setSuits( String suits){
-    this.suits = suits;
+
+public String getValues(){
+    return value;
 }
-public int getValues(){
-    return this.values;
-}
-public int setValues(){
-    this.values = vaues;
-}
+public static void main(String [] args){}
 
 }
 

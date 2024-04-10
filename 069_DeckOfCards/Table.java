@@ -11,3 +11,5 @@ for (int i = 0; i < values.length; i++){
 
 }
 
+for( String )
+//make for each loop to pring out each card 
