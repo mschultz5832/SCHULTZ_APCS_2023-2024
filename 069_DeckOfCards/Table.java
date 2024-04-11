@@ -1,15 +1,16 @@
-public class Table {
+public class Table{
 
-for (int i = 0; i < values.length; i++){
+public static void main(String [] args){
 
+  Deck deck = new Deck();
+  Card[] deckOfCards = deck.getDeck();
+
+// for each loop getting value and suit from array and printing
+
+    for (Card card:deckOfCards){
+
+      System.out.println("the card is " + " " + card.getValue()  +  "" + " of " + " " + card.getSuit() );
+
+  }
 }
-  System.out.println("the cards in the deck are  " + values[i] +  "of spades ");//senetence saying what my classe are and printing out each own line
-  System.out.println("the cards in the deck are  " + values[i] +  "of clubs " );
-  System.out.println("the cards in the deck are  " + values[i] +  "of spades ");
-  System.out.println("the cards in the deck are  " + values[i] +  "of diomands ");
-
-
 }
-
-for( String )
-//make for each loop to pring out each card 

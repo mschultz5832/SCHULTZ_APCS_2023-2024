@@ -1,25 +1,24 @@
 public class Card{
 
-//values for cards and suites
-private String suits;
-private String value;
-//method for cards and suits
-public Card(String suits, String values){
+    //values for cards and suites
+String suits;
+String value;
+    //method for cards and suits
+public Card(String suits, String value){
 this.value = value; 
 this.suits = suits;
-}
-
-//getters and setters for cards and suits
-public String getSuits(){
+    }
+    
+ //getters and setters for cards and suits
+public String getSuit(){
     return suits;
-}
-
-public String getValues(){
+ }
+    
+public String getValue(){
     return value;
 }
 public static void main(String [] args){}
-
-}
-
+    
+    }
 
 
