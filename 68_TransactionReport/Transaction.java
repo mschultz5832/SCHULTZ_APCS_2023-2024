@@ -1,5 +1,5 @@
 class Transaction {
-    //variables for transation
+    //variables for transaction
     String itemName;
     String itemDescription;
     double itemCost;
