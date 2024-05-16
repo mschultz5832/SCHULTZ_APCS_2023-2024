@@ -32,3 +32,5 @@ public static boolean AverageWeather(boolean[][] arr, boolean number) {
 
 
     }
+
+/* 0/5 incomplete */
