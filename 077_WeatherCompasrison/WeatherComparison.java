@@ -1,7 +1,7 @@
 public class WeatherComparison {
 
     public static void main(String[] args) {
-
+//array list for weather from each day in a week for five years
         boolean[][] averageWeather = {
             {"April 2015:", 60.25, 60.00, 39.92, 46.63, 47.75, 44.89, 41.38 },
             {"April 2016:", 37.13, 33.91, 49.58, 35.46, 34.58, 41.09, 39.07 },
@@ -12,23 +12,49 @@ public class WeatherComparison {
         };
 
  	
-
+//printing out the average from all years combined
 system.out.println("the average tempertaure from april 1-7 for 2015-2020 is:");
-
-public static boolean AverageWeather(boolean[][] arr, boolean number) {
-    public satic boolean sum(boolean[][] array){
-        boolean sum1 = 0;
-        for(int i: array)
-//method adding up each average from all years and divides by 42
+    double totalAverage = caculateTOtalAverage(averageWeather);
+    public static double calculateTotalAverage(double[][] arr) {
 
 
-
-//-First, print out the average temperature of all 5 years combined.
-//-Second, print out the average temperature for that week each year.
-//Third, print out the average temperature of each day across all years. In other words, average the April 1st temperature across 2019-2023.
-//I want 3 seperate methods for each average printing.
-    
-}
-
+    double sum = 0;
+    int count = 0;
+for (double[] yearTemperatures : arr) {
+    for (double temperature : yearTemperatures) {
+            sum += temperature;
+            count++;
+        }
+    }
+    return sum / count;
 
     }
+
+
+system.out.println( "here is the average  for each week in april");
+
+
+
+
+
+
+system.ou.println("the avergage for each week in april");
+
+
+
+
+
+
+
+
+
+
+
+public static double calculateAverage(double[] temperatures) {
+    double sum = 0;
+    for (double temperature : temperatures) {
+        sum += temperature;
+    }
+    return sum / temperatures.length;
+}
+}

@@ -21,7 +21,7 @@ for(int row = 0; row < studioGihbliMovies.length; row++) {
 
     System.out.println();
     System.out.println();
-}
+}   
 
 }
 }
